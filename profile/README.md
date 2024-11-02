@@ -4,4 +4,6 @@ We are a free subdomain service for people which think they are dumbasses.
 # Why use us?
 - We support a lot of records
 - We quickly respond to PR's
-- We have good documentation
+- We have good documentation*
+
+<h6>*not being worked on yet</h6>
